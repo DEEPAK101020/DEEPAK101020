@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm DEEPAK KUMAR</h1>
-<h3 align="center">A passionate Node.js backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
+# Hi there! 👋 I'm Deepak Kumar
 
-- 🌱 I’m currently learning **Node.js**
-- 💬 Ask me about **JavaScript & Node.js**
+## About Me
+I'm a passionate backend developer from India, with expertise in Node.js. I enjoy crafting efficient and scalable solutions that solve real-world problems.
 
-- 📫 How to reach me **deepakkumarktr1998@gmail.com**
+### 🌱 Currently Learning
+- Advanced concepts in Node.js
+- Enhancing my problem-solving skills with Data Structures & Algorithms
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/deepak-kumar-56075a170/" target="blank"></a>
-</p>
+### 💬 Ask Me About
+- JavaScript
+- Java
+- Backend Development
 
-<h3 align="left">Languages and Tools:</h3>
-
-<hr/>
-
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,postman,html,js,css,mongodb,node.js,express.js&theme=light)](https://skillicons.dev)
-
+## Connect with Me
+📫 **Email:** deepakkumarktr1998@gmail.com  
+🔗 **LinkedIn:** [Connect](https://www.linkedin.com/in/deepak-kumar-56075a170/)
