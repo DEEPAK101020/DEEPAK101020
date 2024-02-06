@@ -20,5 +20,5 @@ I'm a passionate backend developer from India, with expertise in Node.js. I enjo
 📫 **Email:** deepakkumarktr1998@gmail.com  
 🔗 **LinkedIn:** [Connect](https://www.linkedin.com/in/deepak-k23/)
 <br>
-👨‍💻 All of my projects are available at [Portfolio](https://deepak101020.github.io/)
+👨‍💻 All of my top projects are available at [Portfolio](https://deepak101020.github.io/)
 
