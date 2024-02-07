@@ -16,10 +16,12 @@ I'm a passionate backend developer from India, with expertise in Node.js. I enjo
 [![Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,mongodb,mysql,html,css,github,bootstrap,postman&theme=light)](https://skillicons.dev)
 
 ## Connect with Me
-
+<br>
 📫 **Email:** deepakkumarktr1998@gmail.com  
 <br>
+<br>
 🔗 **LinkedIn:** [Connect](https://www.linkedin.com/in/deepak-k23/)
+<br>
 <br>
 👨‍💻 All of my top projects are available at [Portfolio](https://deepak101020.github.io/)
 <br>
