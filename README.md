@@ -22,3 +22,9 @@ I'm a passionate backend developer from India, with expertise in Node.js. I enjo
 <br>
 👨‍💻 All of my top projects are available at [Portfolio](https://deepak101020.github.io/)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak101020" alt="deepak101020" /></a> </p>
+<p align="left">
+</p>
+
+
+
