@@ -9,7 +9,7 @@ I'm a passionate backend developer from India, with expertise in Node.js. I enjo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DEEPAK101020&label=Profile%20views&color=0e75b6&style=flat" alt="DEEPAK-KUMAR" /> </p>
 
 ### 🌱 Currently Learning
-- Advanced concepts in Node.js
+- Advanced concepts in Node.js.
 - Enhancing my problem-solving skills with Data Structures & Algorithms
 
 ## Skills and Tools
