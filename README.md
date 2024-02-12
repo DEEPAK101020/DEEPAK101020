@@ -6,7 +6,6 @@
 
 ## About Me
 I'm a passionate backend developer from India, with expertise in Node.js. I enjoy crafting efficient and scalable solutions that solve real-world problems.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DEEPAK101020&label=Profile%20views&color=0e75b6&style=flat" alt="DEEPAK-KUMAR" /> </p>
 
 ### 🌱 Currently Learning
 - Advanced concepts in Node.js
@@ -16,19 +15,26 @@ I'm a passionate backend developer from India, with expertise in Node.js. I enjo
 [![Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,mongodb,mysql,html,css,github,bootstrap,postman&theme=light)](https://skillicons.dev)
 
 ## Connect with Me
-<br>
 📫 **Email:** deepakkumarktr1998@gmail.com  
-<br>
-<br>
 🔗 **LinkedIn:** [Connect](https://www.linkedin.com/in/deepak-k23/)
-<br>
-<br>
 👨‍💻 All of my top projects are available at [Portfolio](https://deepak101020.github.io/)
-<br>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak101020" alt="deepak101020" /></a> </p>
+
 <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=deepak101020" alt="deepak101020" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak101020&" alt="deepak101020" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak101020&show_icons=true&locale=en" alt="deepak101020" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak101020&show_icons=true&locale=en&layout=compact" alt="deepak101020" />
+</p>
 
 
