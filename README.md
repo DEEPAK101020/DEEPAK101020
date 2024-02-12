@@ -34,8 +34,10 @@ I'm a passionate backend developer from India, with expertise in Node.js. I enjo
   <img src="https://github-readme-stats.vercel.app/api?username=deepak101020&show_icons=true&locale=en" alt="deepak101020" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak101020&show_icons=true&locale=en&layout=compact" alt="deepak101020" />
+
+ <p align="center">
+                <img class="ht1" id="github-top-langs" style="border: 1px solid rgb(119, 105, 236)"
+                    src='https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK101020&size_weight=0.5&count_weight=0.5'>
 </p>
 
 
