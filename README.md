@@ -5,7 +5,7 @@
 </p>
 
 ## About Me
-I'm a passionate backend developer from India, with expertise in Node.js. I enjoy crafting efficient and scalable solutions that solve real-world problems...
+I'm a passionate backend developer from India, with expertise in Node.js. I enjoy crafting efficient and scalable solutions that solve real-world problems.
 
 ### 🌱 Currently Learning
 - Advanced concepts in Node.js
