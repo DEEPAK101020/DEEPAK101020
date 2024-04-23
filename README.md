@@ -9,7 +9,7 @@ I'm a passionate backend developer from India, with expertise in Node.js. I enjo
 
 ### 🌱 Currently Learning
 - Advanced concepts in Node.js
-- Enhancing my problem-solving skills with Data Structures & Algorithms...
+- Enhancing my problem-solving skills with Data Structures & Algorithms.
 
 ## Skills and Tools
 [![Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,mongodb,mysql,html,css,github,bootstrap,postman&theme=light)](https://skillicons.dev)
