@@ -8,7 +8,7 @@
 I'm a passionate backend developer from India, with expertise in Node.js. I enjoy crafting efficient and scalable solutions that solve real-world problems.
 
 ### 🌱 Currently Learning
-- Advanced concepts in Node.js
+- Advanced concepts in Node.js.
 - Enhancing my problem-solving skills with Data Structures & Algorithms.
 
 ## Skills and Tools
